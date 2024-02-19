@@ -495,6 +495,11 @@ body {
         gap: 20px;
     }
 
+    .modal1, .capture, .zoomout{
+
+        margin-top: 15px;
+        
+
     .container1, .container2{
         margin-left: 20px;
         flex-direction: column;
@@ -626,7 +631,7 @@ body {
     }
 
     .janela-modal{
-        height: 70%;
+        height: 20%;
     }
 
     
