@@ -631,9 +631,21 @@ body {
     }
 
     .janela-modal{
+        widht:500px;
         height: 20%;
     }
 
+        .modal{
+            display: flex;
+        justify-content: center;
+        justify-self: center;
+        justify-items: center;
+        align-items: center;
+        align-self: center;
+        align-content: center;
+        text-align: center;
+        justify-self: center;
+        align-self: center;
     
     }
     
